@@ -5,7 +5,12 @@ AI assistant that helps manage tasks, automate workflows, and respond via WhatsA
 
 ## Tech Stack
 - Python
+- React 18
+- Vite
+- Whisper-STT
 - Ollama (LLM)
+- Flask
+- Google Tools(Sheets, Calender)
 - Twilio API
 
 ## Demo 
