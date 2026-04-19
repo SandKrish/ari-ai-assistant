@@ -11,6 +11,9 @@ Ari is an AI-powered assistant that helps manage tasks, automate workflows, and 
 - Integration with Google Sheets and Calendar
 
 ## 🛠️ Tech Stack
+
+<img width="1307" height="866" alt="image" src="https://github.com/user-attachments/assets/eba0fe0c-77f7-4d62-9ce7-6416a0bb45ed" />
+
 - Python
 - Flask
 - React 18 + Vite
