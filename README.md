@@ -14,6 +14,8 @@ Ari is an AI-powered assistant that helps manage tasks, automate workflows, and 
 
 <img width="1307" height="866" alt="image" src="https://github.com/user-attachments/assets/eba0fe0c-77f7-4d62-9ce7-6416a0bb45ed" />
 
+
+
 - Python
 - Flask
 - React 18 + Vite
@@ -21,6 +23,7 @@ Ari is an AI-powered assistant that helps manage tasks, automate workflows, and 
 - Whisper (Speech-to-Text)
 - Twilio API (WhatsApp Integration)
 - Google APIs (Sheets, Calendar)
+- 
 
 ## 🎥 Demo
 [Click here for demo](https://www.linkedin.com/feed/update/urn:li:activity:7448793133892665344/)
