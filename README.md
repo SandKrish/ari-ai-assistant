@@ -23,7 +23,6 @@ Ari is an AI-powered assistant that helps manage tasks, automate workflows, and 
 - Whisper (Speech-to-Text)
 - Twilio API (WhatsApp Integration)
 - Google APIs (Sheets, Calendar)
-- 
 
 ## 🎥 Demo
 [Click here for demo](https://www.linkedin.com/feed/update/urn:li:activity:7448793133892665344/)
